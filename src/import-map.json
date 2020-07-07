@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.5.0/lib/system/single-spa.min.js",
+    "react": "https://unpkg.com/react@16.13.1/umd/react.production.min.js",
+    "react-dom": "https://unpkg.com/react-dom@16.13.1/umd/react-dom.production.min.js",
+    "@events/root-config": "http://localhost:9000/events-root-config.js",
+    "@events/dashboard": "http://localhost:9001/events-dashboard.js"
+  }
+}
